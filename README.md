@@ -28,7 +28,6 @@ The analysis is based on the following datasets:
 - `products.csv` – Contains product name, category, price, and associated occasion.
 - `customers.csv` – Provides customer location and demographic information.
 - `Data Analysis (Main Workbook).xlsx` – The working Excel file used for data cleaning, pivot analysis, and chart creation.
-- `Ferns and Petals Sales Analysis.pdf` – Final summary of the analysis presented in a dashboard format.
 
 ## Key Findings
 
