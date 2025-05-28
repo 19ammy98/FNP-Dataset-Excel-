@@ -40,16 +40,14 @@ The analysis is based on the following datasets:
 
 ## Tools Used
 
-- Microsoft Excel (for cleaning, pivot tables, charts)
-- Python (optional for advanced processing)
-- Power BI (optional for dashboard creation)
+- Microsoft Excel (Power Query for cleaning, pivot tables, charts)
 
 ## How to Use
 
 To replicate the analysis:
 
 1. Download or clone this repository.
-2. Open the Excel workbook for ready-to-use insights or load the CSV files into your preferred data tool (Excel, Python, Power BI).
+2. Open the Excel workbook for ready-to-use insights or load the CSV files into your preferred data tool.
 3. Review the visualizations and findings as per the business questions listed above.
 
 ## License
